@@ -1,4 +1,0 @@
-<resources>
-    <string name="app_name">Disiplin AI</string>
-    <string name="accessibility_desc">Dipakai untuk mendeteksi aplikasi yang sedang terbuka dan memblokirnya sesuai batas waktu, jam fokus, dan jam tidur yang kamu atur. Tidak membaca atau mengirim isi layar ke mana pun.</string>
-</resources>
